@@ -1,0 +1,7 @@
+Cleeq is a modified version of Simplistic Light by Matt Harwood (matt@mattharwood.com)
+
+Original copyright notice is:
+
+This style is a modified and stripped down version of 
+the "Simplified" theme developed by "Cowboy" Ben Alman
+(http://benalman.com/). It is copyright to him. 
